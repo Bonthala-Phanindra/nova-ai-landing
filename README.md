@@ -1,6 +1,6 @@
 # NovaAI – AI Writing Assistant Landing Page
 
-**Live Demo:** https://nova-ai-landing.vercel.app
+*Live Demo:https://nova-ai-landing-8l0j4m1a9-bp7329741-3173s-projects.vercel.app
 
 ## Tech Stack
 - Next.js 14 (App Router)
